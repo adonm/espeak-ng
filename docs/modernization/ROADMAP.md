@@ -393,7 +393,7 @@ espeak_status espeak_set_event_callback(espeak_context_t *ctx,
 
 ## Resources
 
-- [Original Article - Motivation](link-to-article)
+- [Original Article - Motivation](https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html)
 - [eSpeak NG Wiki](https://github.com/espeak-ng/espeak-ng/wiki)
 - [Current Issues](https://github.com/espeak-ng/espeak-ng/issues)
 - [Mailing List](https://groups.io/g/espeak-ng)

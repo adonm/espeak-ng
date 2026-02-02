@@ -172,7 +172,7 @@ espeak-ng -ven -x "Test text"
 - **Mailing List**: https://groups.io/g/espeak-ng
 - **Issues**: https://github.com/espeak-ng/espeak-ng/issues
 - **Wiki**: https://github.com/espeak-ng/espeak-ng/wiki
-- **Original Article**: [Motivation for this work]
+- **Original Article**: https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html
 
 ---
 
